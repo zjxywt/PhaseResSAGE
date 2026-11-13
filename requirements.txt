@@ -1,0 +1,8 @@
+# Install a PyTorch build appropriate for the local CPU/GPU first.
+# Example: pip install torch
+biopython>=1.81
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+fair-esm>=2.0.0
+pydssp>=0.9
